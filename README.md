@@ -10,5 +10,5 @@ Contenido
 4. Desarrollo de Modelos
 5. Evaluación del Modelo y predicciones
 
-Recurso -> "Prediction-of-Cardiac-Problems", [Cuaderno](https://github.com/noemack/Pandas_Matplotlib/blob/main/Pandas_Matplotlib.ipynb)
+Recurso -> "Prediction-of-Cardiac-Problems", [Cuaderno](https://github.com/noemack/Prediction-of-Cardiac-Problems/blob/main/Prediction%20of%20Cardiac%20Problems.ipynb)
 
