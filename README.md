@@ -10,5 +10,5 @@ Contenido
 4. Desarrollo de Modelos
 5. Evaluación del Modelo y predicciones
 
-Recurso -> "Prediction-of-Cardiac-Problems", [Cuaderno](https://github.com/noemack/Prediction-of-Cardiac-Problems/blob/main/Prediction%20of%20Cardiac%20Problems.ipynb)
+Recurso -> "Prediction-of-Cardiac-Problems", [Cuaderno](https://github.com/noemack/Prediction-of-Cardiac-Problems/blob/main/Prediction_of_Cardiac_Problems.ipynb)
 
